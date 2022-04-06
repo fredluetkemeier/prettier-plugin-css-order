@@ -1,6 +1,6 @@
 {
   "name": "@fredluetkemeier/prettier-plugin-css-order",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Sort CSS declarations in a certain order.",
   "type": "commonjs",
   "main": "./src/main.js",
@@ -27,9 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Siilwyn/prettier-plugin-css-order.git"
+    "url": "https://github.com/fredluetkemeier/prettier-plugin-css-order.git"
   },
-  "author": "Selwyn <talk@selwyn.cc> (https://selwyn.cc/)",
+  "author": "Fred Luetkemeier",
   "license": "ISC",
   "keywords": [
     "prettier",
