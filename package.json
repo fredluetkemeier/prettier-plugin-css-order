@@ -1,6 +1,6 @@
 {
   "name": "@fredluetkemeier/prettier-plugin-css-order",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Sort CSS declarations in a certain order.",
   "type": "commonjs",
   "main": "./src/main.js",
@@ -15,8 +15,8 @@
     "postversion": "git push --follow-tags"
   },
   "dependencies": {
-    "css-declaration-sorter": "^6.1.3",
-    "postcss-scss": "^4.0.2",
+    "css-declaration-sorter": "^6.2.2",
+    "postcss-scss": "^4.0.3",
     "sync-threads": "^1.0.1"
   },
   "peerDependencies": {
